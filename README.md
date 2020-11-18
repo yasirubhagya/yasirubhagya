@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yasiru Bhagya, a Computer Engineering undergraduate 🚀 from UOP.
+### Hi 👋, I'm Yasiru Bhagya, a Computer Engineering undergraduate 🤓 from UOP.
 <!--
 **yasirubhagya/yasirubhagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 <!-- Topics and More Links -->
 - 🔭 I’m currently working on [-------](https://----)
-- 🌱 I’m currently learning Machine Learning, Cloud Computing Architectures
+- 🌱 I’m currently learning Machine Learning, parallel Computing Architectures
 - 🤔 I’m looking for help with [-------](https://github.com)
-- 💬 Ask me about anything related in Web Development 😄
-- 📫 Reach me on: [Portfolio](https://)
-- ⚡ Fun fact: **
+- ⚡ philosophy: *Hakuna Matata*
 
 **Languages and Tools:** 
 
