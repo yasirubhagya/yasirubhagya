@@ -1,0 +1,23 @@
+on:
+  issues:
+    types:
+      [opened,edited,deleted,closed,reopened,labeled,unlabled,assigned]
+jobs:
+  alert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Issues to Azure DevOps
+      # You may pin to the exact commit or the version.
+      # uses: danhellem/github-actions-issue-to-work-item@3072da42abf94ebe4c7778c57fb4af06db341c72
+        uses: danhellem/github-actions-issue-to-work-item@v2.2
+        env:
+          ado_token: "${{ secrets.ADO_PERSONAL_ACCESS_TOKEN }}"
+          github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
+          ado_organization: "stratergen"
+          ado_project: "FOC ESC"
+          ado_wit: "User Story"
+          ado_new_state: "New"
+          ado_active_state: "Active"
+          ado_close_state: "Closed"
+          ado_bypassrules: true
+          log_level: 100
