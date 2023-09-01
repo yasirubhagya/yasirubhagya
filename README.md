@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yasiru Bhagya, a Computer Engineering undergraduate 🤓 from UOP.
+### Hi 👋, I'm Yasiru Bhagya, a Computer Engineering graduate 🤓 from UOP.
 <!--
 **yasirubhagya/yasirubhagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
